@@ -1,2 +1,0 @@
-http://www.harryyang.org/inpainting/
-https://github.com/leehomyc/Faster-High-Res-Neural-Inpainting
