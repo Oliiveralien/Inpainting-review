@@ -1,0 +1,1 @@
+Namespace(content_path='./dataset/content.jpg', content_weight=1, gpu_chunck_size=256, max_iter=100, mrf_style_stride=2, mrf_synthesis_stride=2, num_res=3, sample_step=50, style_path='./dataset/style.jpg', style_weight=0.6, tv_weight=0.35)
