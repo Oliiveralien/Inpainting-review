@@ -14,6 +14,6 @@ Obtained by UPC CVlab, for image inpainting.
 * [2017CVPR - High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis](https://github.com/ZhanzhouFeng/Pytorch-Implement-Faster-High-Res-Neural-Inpainting) 
 / [Official Website](http://www.harryyang.org/inpainting/)
 
-*[2017SIGGRAPH - GLCIC](https://github.com/otenim/GLCIC-PyTorch)
+* [2017SIGGRAPH - GLCIC](https://github.com/otenim/GLCIC-PyTorch)
 
 Updating...
