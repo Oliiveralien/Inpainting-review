@@ -19,5 +19,9 @@ Obtained by UPC CVlab, for image inpainting.
 * [2018NIPS - GMCNN](https://github.com/shepnerd/inpainting_gmcnn)
 * [2019ACMMM - DFNet](https://github.com/hughplay/DFNet)
 * 2019CVPR - Foreground-aware Inpainting
-
+* [2019CVPR - PEN-Net](https://github.com/researchmm/PEN-Net-for-Inpainting)
+* [2019CVPR - PIC](https://github.com/lyndonzheng/Pluralistic-Inpainting)
+* [2019ICCV - CSA](https://github.com/KumapowerLIU/CSA-inpainting)
+* [2019ICCV - EdgeConnect](https://github.com/knazeri/edge-connect)
+* [2019ICCV - GatedConvolution](https://github.com/avalonstrel/GatedConvolution_pytorch) / [Deepfill Project v1(CA), v2(GC)](https://github.com/JiahuiYu/generative_inpainting)
 Updating...
