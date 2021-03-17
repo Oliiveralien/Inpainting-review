@@ -41,7 +41,7 @@ Obtained by UPC CVlab, for image inpainting.
 * 2020CVPR - UCTGAN: Diverse Image Inpainting based on Unsupervised Cross-SpaceTranslation
 * [2020ECCV - DeepGIN](https://github.com/rlct1/DeepGIN) / [Task1](https://github.com/rlct1/gin) / [Task2](https://github.com/rlct1/gin-sg)
 * 2020ECCV - Guidance and Evaluation: Semantic-Aware Image Inpainting for Mixed Scenes
-* 2020ECCV - High-Resolution Image Inpainting with Iterative Concidence Feedback and Guided Upsampling [API](https://zengxianyu.github.io/iic/)
+* 2020ECCV - High-Resolution Image Inpainting with Iterative Concidence Feedback and Guided Upsampling [(API)](https://zengxianyu.github.io/iic/)
 * 2020ECCV - Learning Object Placement by Inpainting for Compositional Data Augmentation
 * [2020ECCV - MEDFE](https://github.com/KumapowerLIU/Rethinking-Inpainting-MEDFE)
 * [2020ECCV - VCNet](https://github.com/birdortyedi/vcnet-blind-image-inpainting)
