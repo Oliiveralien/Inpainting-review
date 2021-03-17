@@ -23,5 +23,6 @@ Obtained by UPC CVlab, for image inpainting.
 * [2019CVPR - PIC](https://github.com/lyndonzheng/Pluralistic-Inpainting)
 * [2019ICCV - CSA](https://github.com/KumapowerLIU/CSA-inpainting)
 * [2019ICCV - EdgeConnect](https://github.com/knazeri/edge-connect)
-* [2019ICCV - GatedConvolution](https://github.com/avalonstrel/GatedConvolution_pytorch) / [Deepfill Project v1(CA), v2(GC)](https://github.com/JiahuiYu/generative_inpainting)
+* [2019ICCV - GatedConvolution](https://github.com/avalonstrel/GatedConvolution_pytorch) / [Deepfill Project CA&GC](https://github.com/JiahuiYu/generative_inpainting)
+* 
 Updating...
