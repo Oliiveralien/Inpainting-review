@@ -28,5 +28,7 @@ Obtained by UPC CVlab, for image inpainting.
 * [2019ICCV - PRVS](https://github.com/jingyuanli001/PRVS-Image-Inpainting)
 * [2019ICCV - StructureFlow](https://github.com/RenYurui/StructureFlow)
 * [2019IJCAI - MUSICAL](https://github.com/wangning-001/MUSICAL)
+* [2020AAAI - Structure Inpainting](https://github.com/YoungGod/sturcture-inpainting)
+* [2020AAAI - Region Normalization](https://github.com/geekyutao/RN)
 
 Updating...
