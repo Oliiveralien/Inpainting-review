@@ -1,0 +1,134 @@
+wandb_version: 1
+
+DATASET:
+  desc: null
+  value:
+    CONT_ROOT: ./datasets/CelebAMask-HQ
+    IMAGENET: ./datasets/ImageNet/
+    MEAN:
+    - 0.5
+    - 0.5
+    - 0.5
+    NAME: FFHQ
+    ROOT: ./datasets/ffhq/images1024x1024
+    SIZE: 256
+    STD:
+    - 0.5
+    - 0.5
+    - 0.5
+MASK:
+  desc: null
+  value:
+    ANGLE_RANGE: 0.20943951023931953
+    GAUS_K_SIZE: 15
+    MAX_NUM_VERTEX: 16
+    MAX_REMOVAL_RATIO: 0.5
+    MAX_WIDTH: 16
+    MEAN_ANGLE: 1.2566370614359172
+    MIN_NUM_VERTEX: 0
+    MIN_REMOVAL_RATIO: 0.2
+    MIN_WIDTH: 8
+    NUM_ITER_SMOOTHING: 3
+    SIGMA: 4
+MODEL:
+  desc: null
+  value:
+    D:
+      BETAS:
+      - 0.5
+      - 0.9
+      DECAY_RATE: 0.5
+      LR: 0.001
+      NAME: 1-ChOutputDiscriminator
+      NUM_CHANNELS: 64
+      NUM_CRITICS: 5
+      SCHEDULER: []
+    IS_TRAIN: true
+    JOINT:
+      BETAS:
+      - 0.5
+      - 0.9
+      DECAY_RATE: 0.5
+      LR: 0.0002
+      NAME: JointNetwork
+      SCHEDULER: []
+    MPN:
+      BETAS:
+      - 0.5
+      - 0.9
+      DECAY_RATE: 0
+      LOSS_COEFF: 2
+      LR: 0.001
+      NAME: MaskPredictionNetwork
+      NECK_CHANNELS: 128
+      NUM_CHANNELS: 64
+      SCHEDULER: []
+    NAME: VCNet
+    RIN:
+      BETAS:
+      - 0.5
+      - 0.9
+      DECAY_RATE: 0
+      EMBRACE: true
+      LOSS_COEFF: 1
+      LR: 0.0001
+      NAME: RobustInpaintingNetwork
+      NECK_CHANNELS: 128
+      NUM_CHANNELS: 32
+      SCHEDULER: []
+OPTIM:
+  desc: null
+  value:
+    ADVERSARIAL: 0.001
+    GP: 10
+    MASK: 1
+    RECON: 1.4
+    SEMANTIC: 0.0001
+    TEXTURE: 0.001
+SYSTEM:
+  desc: null
+  value:
+    NUM_GPU: 1
+    NUM_WORKERS: 4
+TEST:
+  desc: null
+  value:
+    BRUSH_COLOR: RED
+    C_IMG_ID: 38
+    FONT: /usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf
+    FONT_SIZE: 24
+    GRAFFITI_PATH: ./datasets/graffiti-dataset/dataset/graffiti_sample/000001ff0013ffff.p
+    IMG_ID: 52
+    ITER: 4
+    MODE: 7
+    OUTPUT_DIR: ./outputs
+    TEXT: hello world
+TRAIN:
+  desc: null
+  value:
+    BATCH_SIZE: 4
+    LOG_INTERVAL: 200
+    NUM_STEPS_FOR_JOINT: 20000
+    NUM_TOTAL_STEP: 200000
+    RESUME: true
+    SAVE_DIR: ./weights
+    SAVE_INTERVAL: 10000
+    SHUFFLE: true
+    START_STEP: 20000
+    VISUALIZE_INTERVAL: 200
+WANDB:
+  desc: null
+  value:
+    ENTITY: vvgl-ozu
+    LOG_DIR: ./logs/VCNet_FFHQ_200000step_4bs_0.0002lr_1gpu_16run
+    NUM_ROW: 0
+    PROJECT_NAME: vcnet-blind-image-inpainting
+    RUN: 16
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.9.1
+    framework: torch
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    python_version: 3.6.9
