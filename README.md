@@ -16,4 +16,6 @@ Obtained by UPC CVlab, for image inpainting.
 
 * [2017SIGGRAPH - GLCIC](https://github.com/otenim/GLCIC-PyTorch)
 
+* [2018ACM MM - PGN](https://github.com/crashmoon/Progressive-Generative-Networks)
+
 Updating...
