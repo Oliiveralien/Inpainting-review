@@ -47,5 +47,6 @@ Obtained by UPC CVlab, for image inpainting.
 * [2020ECCV - VCNet](https://github.com/birdortyedi/vcnet-blind-image-inpainting)
 * 2020PR - Multistage Attention Network for Image Inpainting
 * 2020TIP - PNEN: Pyramid Non-Local Enhanced Networks
+* [2020TIP - DSNet](https://github.com/wangning-001/DSNet)
 
 Updating CVPR2021...
