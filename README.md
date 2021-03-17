@@ -13,12 +13,12 @@ Obtained by UPC CVlab, for image inpainting.
 * [2017SIGGRAPH - GLCIC](https://github.com/otenim/GLCIC-PyTorch)
 * [2018ACMMM - PGN](https://github.com/crashmoon/Progressive-Generative-Networks)
 * [2018CVPR - CA](https://github.com/daa233/generative-inpainting-pytorch)
-* 2018ECCV - Contextual-Baed Inpainting
+* 2018ECCV - Contextual-based Image Inpainting: Infer, Match, and Translate
 * [2018ECCV - PC](https://github.com/naoto0804/pytorch-inpainting-with-partial-conv) / [Official](https://github.com/NVIDIA/partialconv)
 * [2018ECCV - Shift-Net](https://github.com/Zhaoyi-Yan/Shift-Net_pytorch)
 * [2018NIPS - GMCNN](https://github.com/shepnerd/inpainting_gmcnn)
 * [2019ACMMM - DFNet](https://github.com/hughplay/DFNet)
-* 2019CVPR - Foreground-aware Inpainting
+* 2019CVPR - Foreground-aware Image Inpainting
 * [2019CVPR - PEN-Net](https://github.com/researchmm/PEN-Net-for-Inpainting)
 * [2019CVPR - PIC](https://github.com/lyndonzheng/Pluralistic-Inpainting)
 * [2019ICCV - CSA](https://github.com/KumapowerLIU/CSA-inpainting)
@@ -30,5 +30,14 @@ Obtained by UPC CVlab, for image inpainting.
 * [2019IJCAI - MUSICAL](https://github.com/wangning-001/MUSICAL)
 * [2020AAAI - Structure Inpainting](https://github.com/YoungGod/sturcture-inpainting)
 * [2020AAAI - Region Normalization](https://github.com/geekyutao/RN)
+* [2020CVPR - 3D Inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting)
+* [2020CVPR - Attentive Normalization](https://github.com/Jia-Research-Lab/AttenNorm)
+* [2020CVPR - Bringing Old Photos Back to Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)
+* [2020CVPR - CRA](https://github.com/wangyx240/High-Resolution-Image-Inpainting-GAN)
+* [2020CVPR - Multi-Code GAN Prior](https://github.com/genforce/mganprior)
+* 2020CVPR - Prior Guided GAN Based Semantic Inpainting
+* [2020CVPR - RFR](https://github.com/jingyuanli001/RFR-Inpainting)
+* [2020CVPR - Self-Supervised Scene De-occlusion](https://github.com/XiaohangZhan/deocclusion)
+* 2020CVPR - UCTGAN: Diverse Image Inpainting based on Unsupervised Cross-SpaceTranslation
 
 Updating...
