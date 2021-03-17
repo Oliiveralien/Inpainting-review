@@ -18,4 +18,16 @@ Obtained by UPC CVlab, for image inpainting.
 
 * [2018ACM MM - PGN](https://github.com/crashmoon/Progressive-Generative-Networks)
 
+* [2018CVPR - CA](https://github.com/daa233/generative-inpainting-pytorch)
+
+* 2018ECCV - Contextual-Baed Inpainting (To do)
+
+* [2018ECCV - PC](https://github.com/naoto0804/pytorch-inpainting-with-partial-conv) / [Official](https://github.com/NVIDIA/partialconv)
+
+* [2018ECCV - Shift-Net](https://github.com/Zhaoyi-Yan/Shift-Net_pytorch)
+
+* [2018NIPS - GMCNN](https://github.com/shepnerd/inpainting_gmcnn)
+
+
+
 Updating...
