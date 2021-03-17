@@ -1,0 +1,11 @@
+参数名，参数类型
+--batchSize int   设置批大小
+--CA_type str     ContextualAttention模块的模式，有single，parallel和serial三种，默认single
+--dataroot str    图片路径
+--gpu int         第几个gpu，默认0
+--tv_weight float   tvloss的权重，默认0.001
+--preceptual_weight   float preceptualloss的权重，默认0.1
+--style_weight float   styleloss的权重，默认50
+--name str        测试的名字，主要用于区分不同测试
+--continue_train 是否接着之前的模型训练
+--which_epoch str 加载哪一个模型

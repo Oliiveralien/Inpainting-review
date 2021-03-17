@@ -1,0 +1,36 @@
+input_size: [512, 512]
+batch_size: 6
+
+device:
+- {num: 1, gpu: 8, cpu: 16, memory: 51200}
+
+model:
+  c_img: 3
+  c_mask: 1
+  c_alpha: 3
+  mode: 'nearest'
+  norm: 'batch'
+  act_en: 'relu'
+  act_de: 'leaky_relu'
+  en_ksize: [7, 5, 5, 3, 3, 3, 3, 3]
+  de_ksize: [3, 3, 3, 3, 3, 3, 3, 3]
+  blend_layers: [0, 1, 2, 3, 4, 5]
+
+optimizer:
+  name: 'Adam'
+  args:
+    lr: 0.0002
+
+epoch: 20
+iter_per_epoch: 37500
+lr_decay_epoch: 5
+lr_decay_ratio: 0.1
+
+loss:
+  c_img: 3
+  w_l1: 6.
+  w_percep: 0.1
+  w_style: 240.
+  w_tv: 0.1
+  structure_layers: [0, 1, 2, 3, 4, 5]
+  texture_layers: [0, 1, 2]

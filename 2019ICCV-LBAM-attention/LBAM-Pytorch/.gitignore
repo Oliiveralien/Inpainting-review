@@ -1,0 +1,8 @@
+.vscode/
+checkpoints/
+log/
+logs/
+*.JPG
+*.jpg
+*.txt
+

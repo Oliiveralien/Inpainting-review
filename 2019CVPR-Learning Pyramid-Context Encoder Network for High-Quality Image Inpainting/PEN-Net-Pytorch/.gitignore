@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__
+release_model
+*.jpg
+*.yml
+*.npz
+*.png
+*.log
+
