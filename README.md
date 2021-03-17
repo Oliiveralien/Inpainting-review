@@ -23,6 +23,10 @@ Obtained by UPC CVlab, for image inpainting.
 * [2019CVPR - PIC](https://github.com/lyndonzheng/Pluralistic-Inpainting)
 * [2019ICCV - CSA](https://github.com/KumapowerLIU/CSA-inpainting)
 * [2019ICCV - EdgeConnect](https://github.com/knazeri/edge-connect)
-* [2019ICCV - GatedConvolution](https://github.com/avalonstrel/GatedConvolution_pytorch) / [Deepfill Project CA&GC](https://github.com/JiahuiYu/generative_inpainting)
-* 
+* [2019ICCV - GatedConvolution](https://github.com/avalonstrel/GatedConvolution_pytorch) / [Deepfill Project CA & GC](https://github.com/JiahuiYu/generative_inpainting)
+* [2019ICCV - LBAM](https://github.com/Vious/LBAM_Pytorch)
+* [2019ICCV - PRVS](https://github.com/jingyuanli001/PRVS-Image-Inpainting)
+* [2019ICCV - StructureFlow](https://github.com/RenYurui/StructureFlow)
+* [2019IJCAI - MUSICAL](https://github.com/wangning-001/MUSICAL)
+
 Updating...
