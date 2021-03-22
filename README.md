@@ -5,11 +5,8 @@ Code begins from Context Encoder with Pytorch.
 
 Obtained by UPC CVlab, for image inpainting.
 
-region{ 2016
 * [2016CVPR - Context Encoder](https://github.com/BoyuanJiang/context_encoder_pytorch)
 * [2016ICML - VAE+GAN](https://github.com/lucabergamini/VAEGAN-PYTORCH)
-}
-
 * [2017CVPR - Generative Face Completion](https://github.com/Yijunmaverick/GenerativeFaceCompletion)
 * [2017CVPR - High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis](https://github.com/ZhanzhouFeng/Pytorch-Implement-Faster-High-Res-Neural-Inpainting) 
 / [Official Website](http://www.harryyang.org/inpainting/)
@@ -51,5 +48,8 @@ region{ 2016
 * 2020PR - Multistage Attention Network for Image Inpainting
 * 2020TIP - PNEN: Pyramid Non-Local Enhanced Networks
 * [2020TIP - DSNet](https://github.com/wangning-001/DSNet)
+
+# AIM2020
+* [2020ECCVW - DMFN](https://github.com/Zheng222/DMFN#testing)
 
 Updating CVPR2021...
