@@ -59,6 +59,6 @@ Obtained by UPC CVlab, for image inpainting.
 * [2020TIP - DSNet](https://github.com/wangning-001/DSNet)
 
 ### [AIM2020](https://data.vision.ee.ethz.ch/cvl/aim20//) [[Github]](https://github.com/vglsd/AIM2020-Image-Inpainting-Challenge) 
-* [2020ECCVW - DMFN](https://github.com/Zheng222/DMFN#testing)
+* [2020ECCVW - DMFN](https://github.com/Zheng222/DMFN)
 
 Updating CVPR2021...
