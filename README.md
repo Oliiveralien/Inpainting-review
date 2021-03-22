@@ -5,17 +5,17 @@ Code begins from Context Encoder with Pytorch.
 
 Obtained by UPC CVlab, for image inpainting.
 
-## 2016
+### 2016
 * [2016CVPR - Context Encoder](https://github.com/BoyuanJiang/context_encoder_pytorch)
 * [2016ICML - VAE+GAN](https://github.com/lucabergamini/VAEGAN-PYTORCH)
 
-## 2017
+### 2017
 * [2017CVPR - Generative Face Completion](https://github.com/Yijunmaverick/GenerativeFaceCompletion)
 * [2017CVPR - High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis](https://github.com/ZhanzhouFeng/Pytorch-Implement-Faster-High-Res-Neural-Inpainting) 
 / [Official Website](http://www.harryyang.org/inpainting/)
 * [2017SIGGRAPH - GLCIC](https://github.com/otenim/GLCIC-PyTorch)
 
-## 2018
+### 2018
 * [2018ACMMM - PGN](https://github.com/crashmoon/Progressive-Generative-Networks)
 * [2018CVPR - CA](https://github.com/daa233/generative-inpainting-pytorch)
 * 2018ECCV - Contextual-based Image Inpainting: Infer, Match, and Translate
@@ -23,7 +23,7 @@ Obtained by UPC CVlab, for image inpainting.
 * [2018ECCV - Shift-Net](https://github.com/Zhaoyi-Yan/Shift-Net_pytorch)
 * [2018NIPS - GMCNN](https://github.com/shepnerd/inpainting_gmcnn)
 
-## 2019
+### 2019
 * [2019ACMMM - DFNet](https://github.com/hughplay/DFNet)
 * 2019CVPR - Foreground-aware Image Inpainting
 * [2019CVPR - PEN-Net](https://github.com/researchmm/PEN-Net-for-Inpainting)
@@ -36,7 +36,7 @@ Obtained by UPC CVlab, for image inpainting.
 * [2019ICCV - StructureFlow](https://github.com/RenYurui/StructureFlow)
 * [2019IJCAI - MUSICAL](https://github.com/wangning-001/MUSICAL)
 
-## 2020
+### 2020
 * [2020AAAI - Structure Inpainting](https://github.com/YoungGod/sturcture-inpainting)
 * [2020AAAI - Region Normalization](https://github.com/geekyutao/RN)
 * [2020CVPR - 3D Inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting)
@@ -58,7 +58,7 @@ Obtained by UPC CVlab, for image inpainting.
 * 2020TIP - PNEN: Pyramid Non-Local Enhanced Networks
 * [2020TIP - DSNet](https://github.com/wangning-001/DSNet)
 
-### [AIM2020](https://data.vision.ee.ethz.ch/cvl/aim20//) [Github](https://github.com/vglsd/AIM2020-Image-Inpainting-Challenge) 
+### [AIM2020](https://data.vision.ee.ethz.ch/cvl/aim20//)    [Github](https://github.com/vglsd/AIM2020-Image-Inpainting-Challenge) 
 * [2020ECCVW - DMFN](https://github.com/Zheng222/DMFN#testing)
 
 Updating CVPR2021...
