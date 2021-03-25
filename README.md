@@ -69,5 +69,5 @@ Obtained by UPC CVlab, for image inpainting.
 
 Updating CVPR2021...
 
+<details>
 <summary>Expand</summary>
-<br>
