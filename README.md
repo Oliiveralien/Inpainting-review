@@ -1,5 +1,6 @@
 # Inpainting-review
 Paper, code, pretained model for mainstream inpainting methods since 2000.
+Obtained by UPC CVlab, for image inpainting.
 
 ## SOTA
 ![SOTA](https://github.com/Oliiveralien/Oliver-TimeSeriesForecast/blob/master/evaluation_pics/traffic/LSTNet.jpg)
@@ -104,7 +105,5 @@ Paper, code, pretained model for mainstream inpainting methods since 2000.
 
 <summary>Expand</summary>
 </details>
-
-Obtained by UPC CVlab, for image inpainting.
 
 Updating ...
