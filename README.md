@@ -1,8 +1,7 @@
 # Inpainting-review
 Paper, code, pretained model for mainstream inpainting methods since 2000.
 
-Code begins from Context Encoder with Pytorch.
-
+## SOTA
 ![SOTA](https://github.com/Oliiveralien/Oliver-TimeSeriesForecast/blob/master/evaluation_pics/traffic/LSTNet.jpg)
 
 ### 2016
