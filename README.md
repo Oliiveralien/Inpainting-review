@@ -70,7 +70,6 @@ Obtained by UPC CVlab, for image inpainting.
 Updating CVPR2021...
 
 <details>
-  
 * [2021CVPR - VQ-VAE](https://github.com/USTC-JialunPeng/Diverse-Structure-Inpainting)
 
 * [2021CVPR - MPRNet](https://github.com/swz30/MPRNet)
@@ -78,5 +77,4 @@ Updating CVPR2021...
 * [2021CVPR - PISE](https://github.com/Zhangjinso/PISE)
 
 * [2021CVPR - Anycost GAN](https://github.com/mit-han-lab/anycost-gan)
-
 <summary>Expand</summary>
