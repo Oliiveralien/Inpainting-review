@@ -68,3 +68,7 @@ Obtained by UPC CVlab, for image inpainting.
 * [2021CVPR - Anycost GAN](https://github.com/mit-han-lab/anycost-gan)
 
 Updating CVPR2021...
+
+<details>
+<summary>Expand</summary>
+<br>
