@@ -5,7 +5,7 @@ Code begins from Context Encoder with Pytorch.
 
 Obtained by UPC CVlab, for image inpainting.
 
-![SOTA](https://github.com/Oliiveralien/Oliver-TimeSeriesForecast/blob/master/evaluation_pics/traffic/LSTNet.jpg)
+[SOTA](https://github.com/Oliiveralien/Oliver-TimeSeriesForecast/blob/master/evaluation_pics/traffic/LSTNet.jpg)
 
 ### 2016
 <details>
