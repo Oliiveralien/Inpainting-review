@@ -100,6 +100,7 @@ Obtained by UPC CVlab, for image inpainting.
 * 2021CVPR - [MPRNet](https://github.com/swz30/MPRNet)
 * 2021CVPR - [PISE](https://github.com/Zhangjinso/PISE)
 * 2021CVPR - [Anycost GAN](https://github.com/mit-han-lab/anycost-gan)
+* 2021CVPR - DeFLOCNet: Deep Image Editing via Flexible Low-level Controls
 * 2021ICLR - [CoModGAN (TF)](https://github.com/zsyzzsoft/co-mod-gan)
 * 2021arXiv - [brgam (TF)](https://github.com/razvanmarinescu/brgm)
 
