@@ -69,7 +69,9 @@ Obtained by UPC CVlab, for image inpainting.
 * [2021CVPR - MPRNet](https://github.com/swz30/MPRNet)
 * [2021CVPR - PISE](https://github.com/Zhangjinso/PISE)
 * [2021CVPR - Anycost GAN](https://github.com/mit-han-lab/anycost-gan)
+
 <summary>Expand</summary>
+
 </details>
 
 Updating CVPR2021...
