@@ -83,7 +83,7 @@ Obtained by UPC CVlab, for image inpainting.
 <summary>Expand</summary>
 </details>
 
-### [AIM2020](https://data.vision.ee.ethz.ch/cvl/aim20//) [[Github]](https://github.com/vglsd/AIM2020-Image-Inpainting-Challenge) 
+### AIM2020 [[project]](https://data.vision.ee.ethz.ch/cvl/aim20//) [[Github]](https://github.com/vglsd/AIM2020-Image-Inpainting-Challenge) 
 <details>
   
 * [2020ECCVW - DMFN](https://github.com/Zheng222/DMFN)
