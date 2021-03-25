@@ -4,6 +4,7 @@ Paper, code, pretained model for mainstream inpainting methods since 2000.
 ## SOTA
 ![SOTA](https://github.com/Oliiveralien/Oliver-TimeSeriesForecast/blob/master/evaluation_pics/traffic/LSTNet.jpg)
 
+## Paper & Implementation
 ### 2016
 <details>
   
