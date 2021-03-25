@@ -77,6 +77,7 @@ Obtained by UPC CVlab, for image inpainting.
 * 2020ECCV - Learning Object Placement by Inpainting for Compositional Data Augmentation
 * 2020ECCV - [MEDFE](https://github.com/KumapowerLIU/Rethinking-Inpainting-MEDFE)
 * 2020ECCV - [VCNet](https://github.com/birdortyedi/vcnet-blind-image-inpainting)
+* 2020ECCVW - [DMFN](https://github.com/Zheng222/DMFN)
 * 2020PR - Multistage Attention Network for Image Inpainting
 * 2020TIP - PNEN: Pyramid Non-Local Enhanced Networks
 * 2020TIP - [DSNet](https://github.com/wangning-001/DSNet)
@@ -86,12 +87,6 @@ Obtained by UPC CVlab, for image inpainting.
 </details>
 
 ### AIM2020 [[project]](https://data.vision.ee.ethz.ch/cvl/aim20//) [[Github]](https://github.com/vglsd/AIM2020-Image-Inpainting-Challenge) 
-<details>
-  
-* 2020ECCVW - [DMFN](https://github.com/Zheng222/DMFN)
-
-<summary>Expand</summary>
-</details>
 
 ### 2021
 <details>
