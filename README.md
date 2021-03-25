@@ -79,6 +79,7 @@ Obtained by UPC CVlab, for image inpainting.
 * 2020PR - Multistage Attention Network for Image Inpainting
 * 2020TIP - PNEN: Pyramid Non-Local Enhanced Networks
 * 2020TIP - [DSNet](https://github.com/wangning-001/DSNet)
+* 2020Sensors - [GLA](https://github.com/SayedNadim/Global-and-Local-Attention-Based-Free-Form-Image-Inpainting)
 
 <summary>Expand</summary>
 </details>
@@ -98,8 +99,8 @@ Obtained by UPC CVlab, for image inpainting.
 * 2021CVPR - [MPRNet](https://github.com/swz30/MPRNet)
 * 2021CVPR - [PISE](https://github.com/Zhangjinso/PISE)
 * 2021CVPR - [Anycost GAN](https://github.com/mit-han-lab/anycost-gan)
-* 2021ICLR - [CoModGAN(TF)](https://github.com/zsyzzsoft/co-mod-gan)
-* 2021arXiv - 
+* 2021ICLR - [CoModGAN (TF)](https://github.com/zsyzzsoft/co-mod-gan)
+* 2021arXiv - [brgam (TF)](https://github.com/razvanmarinescu/brgm)
 
 <summary>Expand</summary>
 </details>
