@@ -19,7 +19,7 @@ Obtained by UPC CVlab, for image inpainting.
   
 * 2017CVPR - [Generative Face Completion](https://github.com/Yijunmaverick/GenerativeFaceCompletion)
 * 2017CVPR - [High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis](https://github.com/ZhanzhouFeng/Pytorch-Implement-Faster-High-Res-Neural-Inpainting) 
-/ [project](http://www.harryyang.org/inpainting/)
+/ [[Project]](http://www.harryyang.org/inpainting/)
 * 2017SIGGRAPH - [GLCIC](https://github.com/otenim/GLCIC-PyTorch)
 
 <summary>Expand</summary>
@@ -98,7 +98,8 @@ Obtained by UPC CVlab, for image inpainting.
 * 2021CVPR - [MPRNet](https://github.com/swz30/MPRNet)
 * 2021CVPR - [PISE](https://github.com/Zhangjinso/PISE)
 * 2021CVPR - [Anycost GAN](https://github.com/mit-han-lab/anycost-gan)
-* 2021ICLR - [CoModGAN]()
+* 2021ICLR - [CoModGAN(TF)](https://github.com/zsyzzsoft/co-mod-gan)
+* 2021arXiv - 
 
 <summary>Expand</summary>
 </details>
