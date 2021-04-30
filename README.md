@@ -2,7 +2,7 @@
 Paper, code, pretained model for mainstream inpainting methods since 2000.
 Obtained by UPC CVlab, for image inpainting.
 
-## SOTA
+## SOTA [paper with code](https://www.paperswithcode.com/task/image-inpainting)
 ![SOTA](https://github.com/Oliiveralien/Inpainting-review/blob/master/pics/SOTA.png)
 
 ## Paper & Implementation
