@@ -97,7 +97,7 @@ Obtained by UPC CVlab, for image inpainting.
 * 2021CVPR - [Anycost GAN](https://github.com/mit-han-lab/anycost-gan)
 * 2021CVPR - [DeFLOCNet](https://github.com/KumapowerLIU/DeFLOCNet)
 * 2021ICLR - [CoModGAN (TF)](https://github.com/zsyzzsoft/co-mod-gan)
-* 2021arXiv - [brgam (TF)](https://github.com/razvanmarinescu/brgm)
+* 2021arXiv - [BRGM (TF)](https://github.com/razvanmarinescu/brgm)
 
 <summary>Expand</summary>
 </details>
