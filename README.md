@@ -78,7 +78,7 @@ Obtained by UPC CVlab, for image inpainting.
 * 2020ECCV - [MEDFE](https://github.com/KumapowerLIU/Rethinking-Inpainting-MEDFE)
 * 2020ECCV - [VCNet](https://github.com/birdortyedi/vcnet-blind-image-inpainting)
 * 2020ECCVW - [DMFN](https://github.com/Zheng222/DMFN)
-* 2020PR - Multistage Attention Network for Image Inpainting
+* 2020PR - [MANet](https://github.com/wangning-001/MANet)
 * 2020TIP - PNEN: Pyramid Non-Local Enhanced Networks
 * 2020TIP - [DSNet](https://github.com/wangning-001/DSNet)
 * 2020Sensors - [GLA](https://github.com/SayedNadim/Global-and-Local-Attention-Based-Free-Form-Image-Inpainting)
