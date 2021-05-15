@@ -1,5 +1,5 @@
 # Inpainting-review
-Paper, code, pretained model for mainstream inpainting methods since 2000.
+Paper, code(PyTorch), pretained model for mainstream inpainting methods since 2000.
 Obtained by UPC CVlab, for image inpainting.
 
 ## SOTA [[paper with code]](https://www.paperswithcode.com/task/image-inpainting)
