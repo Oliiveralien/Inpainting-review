@@ -1,4 +1,4 @@
-pip==20.2.4
+pip==21.1
 numpy==1.19.2
 opencv-python==4.4.0.44
 Pillow==8.0.0
